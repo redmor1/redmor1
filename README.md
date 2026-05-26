@@ -1,5 +1,5 @@
 <img width="508" height="344" alt="peak" src="https://github.com/user-attachments/assets/e60f7a0d-dd1b-4824-a0c8-afe99a30a6a2" />
-<h1>sup, i like frontend, backend and making website go fast</h1>
+<h1>sup, i like frontend, backend and making website go fast 🤠</h1>
 <a href="https://redmor.tech">check me out</a>
 <!--
 **redmor1/redmor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
